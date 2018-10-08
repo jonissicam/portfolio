@@ -1,0 +1,55 @@
+body {
+
+	background-image: url(../images/bg2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Merienda One', cursive;
+	height: 100vh;
+	color: lightgreen;
+
+}
+
+h1 {
+	font-size: 50px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+
+}
+h2{
+	font-size: 50px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: lightgreen;
+	font-family: 'Corben', cursive;
+
+}
+
+#me{
+	height: 200px;
+	width: 200px;
+	border-radius: 60px;
+	border-style: solid;
+	border-color: skyblue;
+	margin-top: 25px;
+
+}
+
+.bio{
+	width: 100%;
+	font-size: 30px;
+	line-height: 1.5;
+	font-family: 'Graduate', cursive;
+	color: white;
+	text-align: center;
+	background-color: rgba(255,255,255, .3);
+
+}
+.container{
+	width: 1275px;
+	margin: 0 auto;
+	text-align: center;
+}
+h6{
+	font-size: 25px;
+	line-height: 17;
+}
